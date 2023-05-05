@@ -9,10 +9,11 @@ module.exports = {
       colors: {
         'bread': {
           '100': '#001F48',
+          '200': '#949494',
         }
       },
       spacing: {
-        '10': '10px',
+        '10sm': '10px',
         '18': '18px',
         '79': '79px',
         '241': '241px',
@@ -26,6 +27,9 @@ module.exports = {
       },
       fontSize: {
         '8sm': '28px',
+      },
+      rotate: {
+        '18': '18deg',
       }
     },
   },
