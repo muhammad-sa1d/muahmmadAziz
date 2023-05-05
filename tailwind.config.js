@@ -17,10 +17,15 @@ module.exports = {
         '18': '18px',
         '79': '79px',
         '241': '241px',
+        '262': '262px',
+        '573': '573px',
         '630': '630px',
+        '615': '615px',
+        '71': '71px',
       },
       maxWidth: {
         '1160': '1160px',
+        '480': '480px',
       },
       backgroundImage: {
         'hero-header': "url('../img/header-bg.png')",
@@ -30,6 +35,9 @@ module.exports = {
       },
       rotate: {
         '18': '18deg',
+      },
+      fontSize: {
+        '55lg': '55px',
       }
     },
   },
